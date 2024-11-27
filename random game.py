@@ -6,7 +6,7 @@ a=random.randint(1,100)
 
 while attempt>0:
      
-
+     
     n=int(input("enter the number :"))
     if n<a:
         c=a-n
